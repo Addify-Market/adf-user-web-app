@@ -40,7 +40,7 @@ const Footer = () => {
         <div>
           <p>
             {" "}
-            © {new Date().getFullYear()} CrpytoKet, Inc. All Rights Reserved
+            © {new Date().getFullYear()} Addify. All Rights Reserved
           </p>
         </div>
         <div>

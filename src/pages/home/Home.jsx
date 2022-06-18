@@ -1,14 +1,14 @@
-import React from 'react';
-import {Bids, Description, Header, } from '../../components'
-
+import React from "react";
+import { Bids, Description, Header } from "../../components";
 
 const Home = () => {
-
-  return <div>
-   <Header description="Discover, collect, and sell extraordinary NFTs"/>
-   <Description />
-   <Bids title="Hot Bids"  />
-  </div>;
+  return (
+    <div>
+      <Header description="Addify is an WEB2 application that makes the WEB3 more powerful & useful" />
+      <Description />
+      <Bids title="Popular Addons" />
+    </div>
+  );
 };
 
 export default Home;
